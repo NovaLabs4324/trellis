@@ -1,0 +1,21 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "feat/editorconfig-cross-editor-322",
+    "feat/frontend-scaffold",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "feat/editorconfig-cross-editor-322": "master",
+    "feat/frontend-scaffold": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "feat/editorconfig-cross-editor-322",
+    "feat/frontend-scaffold",
+    "origin"
+  ]
+}
